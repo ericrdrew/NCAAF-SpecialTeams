@@ -23,7 +23,7 @@ data = data[data['Team'].isin(['NC State','Clemson','Pittsburgh','Boston College
                                'Wake Forest','Boston College','Florida State','Syracuse'])]
 
 #set image paths
-data['path'] = 'C:/Users/ericd/OneDrive - North Carolina State University/Desktop/College Football Stats/ACCLogos/'+ data['Team']  + '.png'
+data['path'] = 'C:/Users/ericd/OneDrive - North Carolina State University/Desktop/PersonalProjects/NCAAF-SpecialTeams/ACCLogos/'+ data['Team']  + '.png'
 
 
 ### PLOTS
