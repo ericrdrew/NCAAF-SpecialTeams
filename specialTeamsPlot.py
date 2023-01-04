@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 from matplotlib.offsetbox import OffsetImage, AnnotationBbox
 import matplotlib.ticker as mtick
 
-########################### WNBA EFFICIENCY PLOT#################################################
+########################### NCAAF SPECIAL TEAMS EFFICIENCY PLOT#################################################
 #read in team data
 #Source: https://www.footballoutsiders.com/stats/ncaa/fei/overallst/2022
 data = pd.read_csv('CFBSpecialTeams.csv')
